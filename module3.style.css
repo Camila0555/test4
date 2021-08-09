@@ -1,0 +1,46 @@
+body{font-size:16px;
+
+background-color:maroon;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 220px;
+  background-color: orange;
+  align-items: center;
+}
+
+
+
+ 
+
+
+@media(max-width: 990px){.nav-item {width: 900px;
+	}}
+@media(max-width:425px){.nav-item{width: 150px;
+	}}
+ 
+.title {
+	font-size: 20px;
+  width: 150px;
+  height: 20px;
+margin-bottom: 150px;
+
+
+}
+ 
+
+.menu-item {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+margin-left: 10%;}
+.logo-image{background: no repeat;
+width: 90px;
+height: 90px;
+align: left;
+}
+
+h1{text-align: center;
+position: relative: top: 30px;}
